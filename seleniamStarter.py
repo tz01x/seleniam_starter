@@ -10,6 +10,7 @@ class SeleniamStarter():
     def __init__(self,url):
         self.url=url
         self.BASEDIR=os.path.dirname(__file__)
+        # helo
         
 
 
